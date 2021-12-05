@@ -9,7 +9,7 @@ This is a TypeScript specific fork of [phaser3-parcel-template](https://github.c
 
 ## Prerequisites
 
-You'll need [Node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/), and [Parcel](https://parceljs.org/) installed.
+You'll need [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) installed.
 
 It is highly recommended to use [Node Version Manager](https://github.com/nvm-sh/nvm) (nvm) to install Node.js and npm.
 
@@ -24,12 +24,6 @@ nvm use node
 ```
 
 Replace 'node' with 'latest' for `nvm-windows`.
-
-Then install Parcel:
-
-```bash
-npm install -g parcel-bundler
-```
 
 ## Getting Started
 
